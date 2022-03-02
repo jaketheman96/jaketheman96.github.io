@@ -1,0 +1,74 @@
+h1, p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgb(150, 180, 163);
+}
+
+.text {
+    border-style: ridge;
+    border-radius: 20%;
+    font-family: cursive;
+}
+
+.habilidade11 {
+    font-size: larger;
+}
+
+.habilidade21 {
+    font-size: large;
+}
+
+.habilidade31 {
+    font-size: medium;
+}
+
+.habilidade41 {
+    font-size: small;
+}
+
+img {
+    border-radius: 0%;
+    width: 200px;
+    float: left;
+    padding: 10px;
+}
+
+#foto {
+    background-color: rgb(73, 151, 252);
+}
+
+/* .bloco1 { *deixar com scroll
+    width: 65%;
+    height: 300px;
+    overflow-y: auto;
+    overflow-x: auto;
+} */
+
+.bloco1 {
+    display: block;
+    vertical-align: top;
+    height: 290px;
+}
+
+.bloco {
+    border: 2px solid rgb(1, 31, 66);
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+}
+
+.descrição {
+    position: absolute;
+    text-align: left;
+    width: 63%;
+    left: 235px;
+    padding-right: 20px;
+}
+
+.impar {
+    background: #b49519;
+}
